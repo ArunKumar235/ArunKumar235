@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arun Kumar M
 - 👀 I’m interested in Development roles
-- 🌱 I’m currently learning Web Development frameworks
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on with fellow passionate developers
 - 📫 My LinkedIn potfolio : https://www.linkedin.com/in/m-arun-kumar-0203-gmail/
 <!---
